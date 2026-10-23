@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 203 65% 77%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 101 53% 81%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --accent: 264 47% 89%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 203 65% 77%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+.mood-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: white;
+  border: 2px solid #a0d2eb;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: -8px;
+}
+
+.mood-slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: white;
+  border: 2px solid #a0d2eb;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mood-slider-track {
+  position: relative;
+  background: linear-gradient(to right, #e1d8f0, #a0d2eb, #c5e8b7);
+  height: 8px;
+  border-radius: 4px;
+}
+
+.mood-slider {
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  height: 25px;
+  top: -8px;
+}
+
+.emotion-tag {
+  transition: all 0.2s ease;
+}
+
+.emotion-tag:hover {
+  transform: translateY(-2px);
+}
+
+.emotion-tag.active {
+  background-color: #a0d2eb;
+  color: white;
+  border-color: #a0d2eb;
+}
+
+.page-transition {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

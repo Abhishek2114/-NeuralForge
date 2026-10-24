@@ -71,25 +71,25 @@ We welcome contributions to NeuralForge. Please follow these steps:
 
 # Preview
 
-## Front Page
+## NeuralForge Front Page
 ![NeuralForge Front Page](https://github.com/user-attachments/assets/051f6e3e-2b78-4bc2-af42-6e74b5fd42a8)
 
-## Login / Sign Up (Auth0)
-![NeuralForge Authentication](https://github.com/user-attachments/assets/3da4e3db-4c50-43a5-8729-f98f619612bc)
+## NeuralForge Login / Sign Up
+![NeuralForge Login / Sign Up](https://github.com/user-attachments/assets/3da4e3db-4c50-43a5-8729-f98f619612bc)
 
-## Complete Your Profile
-![NeuralForge Profile Setup](https://github.com/user-attachments/assets/69dab982-18fe-4064-ae1e-aea007fc502c)
+## NeuralForge Complete Your Profile
+![NeuralForge Complete Your Profile](https://github.com/user-attachments/assets/69dab982-18fe-4064-ae1e-aea007fc502c)
 
-## Daily Check-in
+## NeuralForge Daily Check-in
 ![NeuralForge Daily Check-in](https://github.com/user-attachments/assets/e047ee86-0416-4d7e-8a9e-cdc6d8372213)
 
-## Mental Health Assessment
-![NeuralForge Assessment](https://github.com/user-attachments/assets/49fb27f7-33ac-4535-a41b-c77283a3593f)
+## NeuralForge Mental Health Assessment
+![NeuralForge Mental Health Assessment](https://github.com/user-attachments/assets/49fb27f7-33ac-4535-a41b-c77283a3593f)
 
-## Personalized Self-Care Tips
-![NeuralForge Self-Care Tips](https://github.com/user-attachments/assets/10aa2b56-8de6-4e23-88a5-42bddd07944d)
+## NeuralForge Personalized Self-Care Tips
+![NeuralForge Personalized Self-Care Tips](https://github.com/user-attachments/assets/10aa2b56-8de6-4e23-88a5-42bddd07944d)
 
-## Profile
+## NeuralForge Profile
 ![NeuralForge Profile](https://github.com/user-attachments/assets/8f5a11f3-49aa-47b5-a8dd-98b0bf52c7b0)
 
 ## 📞 Support

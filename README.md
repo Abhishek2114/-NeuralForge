@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/1bc85493-67c1-4e97-9759-1646cf1fa4e2)
-# PsychPort - Mental Health Application
+# NeuralForge  - Mental Health Application
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.2-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)

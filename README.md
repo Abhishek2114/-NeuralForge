@@ -1,5 +1,5 @@
-![NeuralForge Overview](https://github.com/user-attachments/assets/1bc85493-67c1-4e97-9759-1646cf1fa4e2)
-# NeuralForge - Mental Wellness Platform
+![PsychPort Overview](https://github.com/user-attachments/assets/1bc85493-67c1-4e97-9759-1646cf1fa4e2)
+# PsychPort - Mental Wellness Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.2-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-NeuralForge is a modern mental wellness platform designed to help users track daily well-being, complete mental health assessments, and receive personalized insights and recommendations based on their progress and self-care habits.
+PsychPort is a modern mental wellness platform designed to help users track daily well-being, complete mental health assessments, and receive personalized insights and recommendations based on their unique needs.
 
 ## ✨ Key Features
 
@@ -61,7 +61,7 @@ NeuralForge is a modern mental wellness platform designed to help users track da
 
 ## 🤝 Contributing
 
-We welcome contributions to NeuralForge. Please follow these steps:
+We welcome contributions to PsychPort. Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -71,26 +71,26 @@ We welcome contributions to NeuralForge. Please follow these steps:
 
 # Preview
 
-## NeuralForge Front Page
-![NeuralForge Front Page](https://github.com/user-attachments/assets/051f6e3e-2b78-4bc2-af42-6e74b5fd42a8)
+## PsychPort Front Page
+![PsychPort Front Page](https://github.com/user-attachments/assets/051f6e3e-2b78-4bc2-af42-6e74b5fd42a8)
 
-## NeuralForge Login / Sign Up
-![NeuralForge Login / Sign Up](https://github.com/user-attachments/assets/3da4e3db-4c50-43a5-8729-f98f619612bc)
+## PsychPort Login / Sign Up
+![PsychPort Login / Sign Up](https://github.com/user-attachments/assets/3da4e3db-4c50-43a5-8729-f98f619612bc)
 
-## NeuralForge Complete Your Profile
-![NeuralForge Complete Your Profile](https://github.com/user-attachments/assets/69dab982-18fe-4064-ae1e-aea007fc502c)
+## PsychPort Complete Your Profile
+![PsychPort Complete Your Profile](https://github.com/user-attachments/assets/69dab982-18fe-4064-ae1e-aea007fc502c)
 
-## NeuralForge Daily Check-in
-![NeuralForge Daily Check-in](https://github.com/user-attachments/assets/e047ee86-0416-4d7e-8a9e-cdc6d8372213)
+## PsychPort Daily Check-in
+![PsychPort Daily Check-in](https://github.com/user-attachments/assets/e047ee86-0416-4d7e-8a9e-cdc6d8372213)
 
-## NeuralForge Mental Health Assessment
-![NeuralForge Mental Health Assessment](https://github.com/user-attachments/assets/49fb27f7-33ac-4535-a41b-c77283a3593f)
+## PsychPort Mental Health Assessment
+![PsychPort Mental Health Assessment](https://github.com/user-attachments/assets/49fb27f7-33ac-4535-a41b-c77283a3593f)
 
-## NeuralForge Personalized Self-Care Tips
-![NeuralForge Personalized Self-Care Tips](https://github.com/user-attachments/assets/10aa2b56-8de6-4e23-88a5-42bddd07944d)
+## PsychPort Personalized Self-Care Tips
+![PsychPort Personalized Self-Care Tips](https://github.com/user-attachments/assets/10aa2b56-8de6-4e23-88a5-42bddd07944d)
 
-## NeuralForge Profile
-![NeuralForge Profile](https://github.com/user-attachments/assets/8f5a11f3-49aa-47b5-a8dd-98b0bf52c7b0)
+## PsychPort Profile
+![PsychPort Profile](https://github.com/user-attachments/assets/8f5a11f3-49aa-47b5-a8dd-98b0bf52c7b0)
 
 ## 📞 Support
 
